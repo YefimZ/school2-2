@@ -1,6 +1,7 @@
 <html>
 
 <body>
+
        <?= $content ?>
 
 </body>
